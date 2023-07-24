@@ -8,7 +8,7 @@ I'm Mahendra Dewangan</h1>
 
 - 👨‍💻 All of my projects are available at [https://mahendradewangan.cyclic.app/](https://mahendradewangan.cyclic.app/)
 
-- 📝 I regularly write articles on [https://hashnode.com/@mahendraDew](https://hashnode.com/@mahendraDew)
+- 📝 I <em>occasionally</em> write articles on [https://hashnode.com/@mahendraDew](https://hashnode.com/@mahendraDew)
 
 - 📫 How to reach me **mahendradewangan195@gmail.com**
 
