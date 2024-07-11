@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, 
 I'm Mahendra Dewangan</h1>
-<h3 align="center">A passionate frontend developer from India. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community. Do 🌟 my repository if you find my project interesting, at least your star could make someone's day🙏.</h3>
+<h3 align="center">A passionate Frontend developer from India. I'm passionate about making open-source more accessible, creating software💻 and tools to help people, and building a community.</h3>
 
 
 
-- 👨‍💻 All of my projects are available at [https://mahendradewangan.cyclic.app/](https://mahendradewangan.cyclic.app/)
+- 👨‍💻 All of my projects are available at [here](https://mahendradew.github.io/)
 
-- 📝 I <em>occasionally</em> write articles on [https://hashnode.com/@mahendraDew](https://hashnode.com/@mahendraDew)
+- 📝 I <em>occasionally</em> write articles, you can read them [here](https://hashnode.com/@mahendraDew)
 
 - 📫 How to reach me **mahendradewangan195@gmail.com**
 
