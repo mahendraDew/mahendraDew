@@ -6,7 +6,7 @@ I'm Mahendra Dewangan</h1>
 
 
 
-- 👨‍💻 All of my projects are listed here [portfolio↗](https://mahendradew.vercel.app/)
+- 👨‍💻 All of my projects are listed here [portfolio↗](https://mahendradewangan.me/)
 
 - 📝 I <em>occasionally</em> write articles, you can read them here [hashnode↗](https://hashnode.com/@mahendraDew)
 
