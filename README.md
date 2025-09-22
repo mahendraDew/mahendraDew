@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, 
 I'm Mahendra Dewangan</h1>
-<h3 align="center">Full Stack developer from India, building epic stuff and shipping it to show the world!! I love building products that people love &lt;3</h3>
+<h3 align="center">Full Stack developer from India, building epic stuff and shipping it to show the world!! <br/> I love building products that people love &lt;3</h3>
 
 
 
